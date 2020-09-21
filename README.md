@@ -1,2 +1,1 @@
-# ModuleA
-module test A
+This is moduleA test.
